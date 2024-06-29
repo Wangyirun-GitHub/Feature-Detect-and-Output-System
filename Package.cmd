@@ -1,0 +1,1 @@
+pyinstaller -F Feature-Detect-and-Output-System.py -i ICON.ico
